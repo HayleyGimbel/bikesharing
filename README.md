@@ -3,6 +3,8 @@
 # Overview
 My business partner and I recently visited New York, where we observed a successful bikesharing business.  We thought this would be a great venture to bring back to our hometown of Des Moines, so we began to research what made a bikesharing business successful.  The purpose of this analysis is to determine how often bikes are rented, when the most popular times to rent bike are, how frequently bikes need to be serviced, and other important details that will help sell our idea to investors.  Our goal is to illustrate that a bikesharing company would be successful in Des Moines. 
 
+[Tableau Story](https://public.tableau.com/profile/hayley.gimbel#!/vizhome/Module_14_Challenge_16110626100090/CitibikeResearch?publish=yes)
+
 # Results
 
 ## Checkout Times
